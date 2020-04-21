@@ -1,6 +1,6 @@
 #include <iostream>
 int main()
 {
-    std::cout << "test\n";
+    std::cout << "text\n";
     return 0;
 }
